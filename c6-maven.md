@@ -11,30 +11,30 @@ assembly插件
 
 ```
 <build>
-	<plugins>
-		<plugin>
-			<artifactId>maven-assembly-plugin</artifactId>
-			<configuration>
-				<descriptors>
-					<descriptor>src/main/assembly/descriptor.xml</descriptor>
-				</descriptors>
-			</configuration>
-			<executions>
-				<execution>
-					<id>make-assembly</id>
-					<!-- this is used for inheritance merges -->
-					<phase>package</phase>
-					<!-- bind to the packaging phase -->
-					<goals>
-						<goal>single</goal>
-					</goals>
-				</execution>
-			</executions>
-		</plugin>
-	<plugins>
-	<finalName>${project.artifactId}</finalName>
+    <plugins>
+        <plugin>
+            <artifactId>maven-assembly-plugin</artifactId>
+            <configuration>
+                <descriptors>
+                    <descriptor>src/main/assembly/descriptor.xml</descriptor>
+                </descriptors>
+            </configuration>
+            <executions>
+                <execution>
+                    <id>make-assembly</id>
+                    <!-- this is used for inheritance merges -->
+                    <phase>package</phase>
+                    <!-- bind to the packaging phase -->
+                    <goals>
+                        <goal>single</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+    <plugins>
+    <finalName>${project.artifactId}</finalName>
 </build>
 ```
 
-
+需要配置descriptor.xml文件
 
