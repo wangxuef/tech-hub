@@ -9,4 +9,5 @@
 * [C4 mysql](c4.md)
 * [C5 java](c5-java.md)
     * [Date](date.md)
+    * [泛型](泛型.md)
 
