@@ -8,5 +8,20 @@ mybatis中 jdbcType 时间类型：当jdbcType = DATE 时, 只传入了 年月�
 
 
 
+pom 文件中添加仓库：
+
+```
+        <repositories>
+            <repository>
+                <id>ali</id>
+                <name>ali Repository</name>
+                <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+                <snapshots>
+                    <enabled>false</enabled>
+                </snapshots>
+            </repository>
+        </repositories>
+```
+
 
 
