@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [C1 logback](chapter1.md)
-  * [logback](lo.md)
+* [C1 log](chapter1.md)
+  * [log4j](lo.md)
 * [C2 mybaits](mybaits.md)
   * [mybatis](mybatis.md)
 * [C3 spring](c3.md)
