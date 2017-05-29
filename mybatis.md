@@ -1,4 +1,6 @@
-http://www.importnew.com/24151.html   通过源码分析MyBatis的缓存
+[http://www.importnew.com/24151.html](http://www.importnew.com/24151.html)   通过源码分析MyBatis的缓存
+
+http://www.importnew.com/24143.html   MyBatis拦截器原理探究
 
 mybatis中 jdbcType 时间类型：当jdbcType = DATE 时, 只传入了 年月日。jdbcType = TIMESTAMP ,  年月日+ 时分秒
 
