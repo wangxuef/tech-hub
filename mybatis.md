@@ -1,12 +1,12 @@
+http://www.importnew.com/24151.html   通过源码分析MyBatis的缓存
+
 mybatis中 jdbcType 时间类型：当jdbcType = DATE 时, 只传入了 年月日。jdbcType = TIMESTAMP ,  年月日+ 时分秒
 
-[http://www.jianshu.com/p/1c7c7d1bba33?hmsr=toutiao.io&utm\\_medium=toutiao.io&utm\\_source=toutiao.io](http://www.jianshu.com/p/1c7c7d1bba33?hmsr=toutiao.io&utm\_medium=toutiao.io&utm\_source=toutiao.io)
+[http://www.jianshu.com/p/1c7c7d1bba33?hmsr=toutiao.io&utm\\_medium=toutiao.io&utm\\_source=toutiao.io](http://www.jianshu.com/p/1c7c7d1bba33?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [http://www.cnblogs.com/lykxqhh/p/5691185.html](http://www.cnblogs.com/lykxqhh/p/5691185.html)
 
 [http://blog.csdn.net/u014001866/article/details/52763862](http://blog.csdn.net/u014001866/article/details/52763862)
-
-
 
 pom 文件中添加仓库：
 
