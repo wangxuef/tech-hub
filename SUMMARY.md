@@ -29,4 +29,5 @@
 * [开源项目](kai-yuan-kuang-jia.md)
 * [JVM](jvm.md)
 * [技术栈](ji-zhu-zhan.md)
+* [计算机基础](ji-suan-ji-ji-chu.md)
 
