@@ -10,3 +10,8 @@ java  博客：
 
 [http://www.codeceo.com/article/compile-java-source-code-into-a-class-file.html](http://www.codeceo.com/article/compile-java-source-code-into-a-class-file.html)   Java 源代码编译成 Class 文件的过程分析
 
+http://www.importnew.com/24381.html   Java基础中一些值得聊的话题（加载篇）
+
+  
+
+
