@@ -16,6 +16,7 @@
   * [基础](ji-chu.md)
   * [异常处理](yi-chang-chu-li.md)
   * [多线程](duo-xian-cheng.md)
+  * [枚举](mei-ju.md)
 * [C6 maven](c6-maven.md)
 * [C7 算法](c6-suan-fa.md)
 * [Tip](tip.md)
