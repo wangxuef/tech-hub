@@ -7,7 +7,7 @@
   * [mybatis](mybatis.md)
 * [C3 spring](c3.md)
   * [spring boot](spring-boot.md)
-  * spring cloud
+  * [spring cloud](spring-cloud.md)
 * [C4 mysql](c4.md)
 * [C5 java](c5-java.md)
   * [Date](date.md)
