@@ -2,3 +2,8 @@
 
 [https://segmentfault.com/a/1190000009098623](https://segmentfault.com/a/1190000009098623)   线程池，这一篇或许就够了
 
+http://www.codeceo.com/article/java-thread-pool-intro.html   [Java 线程池详细介绍](http://www.codeceo.com/article/java-thread-pool-intro.html)
+
+  
+
+
