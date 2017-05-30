@@ -4,5 +4,7 @@
 
 [http://www.importnew.com/24471.html](http://www.importnew.com/24471.html)   Spring boot executable jar/war 原理
 
-http://www.cnblogs.com/Fndroid/p/6105482.html   Java——搭建自己的RESTful API服务器（SpringBoot、Groovy）
+[http://www.cnblogs.com/Fndroid/p/6105482.html](http://www.cnblogs.com/Fndroid/p/6105482.html)   Java——搭建自己的RESTful API服务器（SpringBoot、Groovy）
+
+https://segmentfault.com/a/1190000006749441   SpringBoot RESTful 应用中的异常处理小结
 
