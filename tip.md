@@ -6,5 +6,7 @@
 
 [https://segmentfault.com/p/1210000008733425/read](https://segmentfault.com/p/1210000008733425/read)   在Java路上，我看过的一些书、源码和框架
 
-http://www.importnew.com/23191.html   听说最近你读过不少书
+[http://www.importnew.com/23191.html](http://www.importnew.com/23191.html)   听说最近你读过不少书
+
+https://segmentfault.com/a/1190000007954793   坚持写博一年半，我的收获与成长
 
