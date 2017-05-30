@@ -30,4 +30,5 @@
 * [JVM](jvm.md)
 * [技术栈](ji-zhu-zhan.md)
 * [计算机基础](ji-suan-ji-ji-chu.md)
+* [设计模式](she-ji-mo-shi.md)
 
