@@ -6,5 +6,7 @@
 
 [http://www.cnblogs.com/Fndroid/p/6105482.html](http://www.cnblogs.com/Fndroid/p/6105482.html)   Java——搭建自己的RESTful API服务器（SpringBoot、Groovy）
 
-https://segmentfault.com/a/1190000006749441   SpringBoot RESTful 应用中的异常处理小结
+[https://segmentfault.com/a/1190000006749441](https://segmentfault.com/a/1190000006749441)   SpringBoot RESTful 应用中的异常处理小结
+
+http://www.cnblogs.com/cnmenglang/p/6424236.html   SpringBoot实践 - SpringBoot+MySql+Redis
 
