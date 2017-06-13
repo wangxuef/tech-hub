@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [C0 区块链](c0-qu-kuai-lian.md)
+  * [区块链](c0-qu-kuai-lian/qu-kuai-lian.md)
 * [C1 log](chapter1.md)
   * [log4j](lo.md)
 * [C2 mybaits](mybaits.md)
@@ -31,5 +33,4 @@
 * [JVM](jvm.md)
 * [技术栈](ji-zhu-zhan.md)
 * [计算机基础](ji-suan-ji-ji-chu.md)
-* [设计模式](she-ji-mo-shi.md)
 
