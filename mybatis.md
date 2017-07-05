@@ -25,3 +25,5 @@ pom 文件中添加仓库：
 
 
 
+在Mybatis Mapper文件中添加属性“useGeneratedKeys”和“keyProperty”，其中keyProperty是[Java](http://lib.csdn.net/base/java)对象的属性名！
+
