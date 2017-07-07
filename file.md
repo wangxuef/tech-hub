@@ -1,6 +1,6 @@
-https://juejin.im/entry/58798b5161ff4b0065edb77e   Java I/O 操作示例
+[https://juejin.im/entry/58798b5161ff4b0065edb77e](https://juejin.im/entry/58798b5161ff4b0065edb77e)   Java I/O 操作示例
 
-
+https://juejin.im/post/5862658c61ff4b0068ae63f3    计算机程序的思维逻辑 \(59\) - 文件和目录操作
 
 #### 写文件：
 
