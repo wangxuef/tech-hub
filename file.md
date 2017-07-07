@@ -1,3 +1,7 @@
+https://juejin.im/entry/58798b5161ff4b0065edb77e   Java I/O 操作示例
+
+
+
 #### 写文件：
 
 ##### FileOutputStream 写文件，FileInputStream读取文件
@@ -113,12 +117,12 @@ public static void writeFile() throws IOException {
 }
 
 public static void writeFile() throws IOException {
-	File fout = new File("dir1/file1");
-	FileWriter fw = new FileWriter(fout);
-	for (int i = 0; i < 10; i++) {
-		fw.write("something" + System.getProperty("line.separator"));
-	}
-	fw.close();
+    File fout = new File("dir1/file1");
+    FileWriter fw = new FileWriter(fout);
+    for (int i = 0; i < 10; i++) {
+        fw.write("something" + System.getProperty("line.separator"));
+    }
+    fw.close();
 }
 ```
 
