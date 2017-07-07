@@ -66,45 +66,37 @@ public static void writeUsingFileWriter(String outFilePath, String filePath) {
 }
 ```
 
-buffer
+BufferedReader 读取文件，BufferedWriter写文件
 
 ```java
 public static void writeUsingBufferedWriter(String outFilePath, String filePath) {
-	BufferedReader br = null;
-	BufferedWriter bwr = null;
-	try {
-		br = new BufferedReader(new FileReader(filePath));
-		bwr = new BufferedWriter(new FileWriter(outFilePath));
-		String str = null;
-		while ((str = br.readLine()) != null) {
-			bwr.write(str);
-		}
-	} catch (FileNotFoundException e) {
-		e.printStackTrace();
-	} catch (IOException e) {
-		e.printStackTrace();
-	} finally {
-		try {
-			if (br != null) {
-				br.close();
-			}
-			if (bwr != null) {
-				bwr.close();
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+    BufferedReader br = null;
+    BufferedWriter bwr = null;
+    try {
+        br = new BufferedReader(new FileReader(filePath));
+        bwr = new BufferedWriter(new FileWriter(outFilePath));
+        String str = null;
+        while ((str = br.readLine()) != null) {
+            bwr.write(str);
+        }
+    } catch (FileNotFoundException e) {
+        e.printStackTrace();
+    } catch (IOException e) {
+        e.printStackTrace();
+    } finally {
+        try {
+            if (br != null) {
+                br.close();
+            }
+            if (bwr != null) {
+                bwr.close();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
 ```
-
-
-
-
-
-
-
-
 
 
 
