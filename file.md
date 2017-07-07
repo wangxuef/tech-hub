@@ -98,18 +98,27 @@ public static void writeUsingBufferedWriter(String outFilePath, String filePath)
 }
 ```
 
-逐行写文件
+##### 逐行写文件
 
 ```java
 public static void writeFile() throws IOException {
+    File fout = new File("dir1/file1");
+    FileOutputStream fos = new FileOutputStream(fout);
+    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
+    for (int i = 0; i < 10; i++){
+        bw.write("something");
+        bw.newLine();
+    }
+    bw.close();
+}
+
+public static void writeFile() throws IOException {
 	File fout = new File("dir1/file1");
-	FileOutputStream fos = new FileOutputStream(fout);
-	BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
-	for (int i = 0; i < 10; i++){
-		bw.write("something");
-		bw.newLine();
+	FileWriter fw = new FileWriter(fout);
+	for (int i = 0; i < 10; i++) {
+		fw.write("something" + System.getProperty("line.separator"));
 	}
-	bw.close();
+	fw.close();
 }
 ```
 
