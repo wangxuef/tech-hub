@@ -14,9 +14,5 @@ git  设置代理 [https://segmentfault.com/q/1010000000118837](https://segmentf
 
 [http://studygolang.com/articles/8280](http://studygolang.com/articles/8280)    vendor 管理go项目
 
-
-
-
-
-git clone 命令：git clone -b cdh4-2.0 --depth=1 https://github.com/cloudera/Impala.git
+git clone 命令：     git clone -b cdh4-2.0 --depth=1 [https://github.com/cloudera/Impala.git](https://github.com/cloudera/Impala.git)
 
